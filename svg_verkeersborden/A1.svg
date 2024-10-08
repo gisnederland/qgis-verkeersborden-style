@@ -4,5 +4,5 @@
    <circle id="witte cirkel met buitenste dunne rode rand" cx="150" cy="150" r="143" fill="#ffffff" stroke="#e3001b" stroke-width="7"/>
    <circle id="witte cirkel met binennste dikke rode rand" cx="150" cy="150" r="117" fill="#ffffff" stroke="#e3001b" stroke-width="30"/>
  </g>
- <text id="snelheid" x="150" y="185" alignment-baseline="hanging" font-size="90pt" font-weight="bold" text-anchor="middle">param(tekst)</text>
+ <text id="snelheid" x="150" y="185" font-family="Arial, Helvetica, sans-serif" font-size="80pt" font-weight="bold" text-anchor="middle">param(tekst)</text>
 </svg>
